@@ -3,3 +3,6 @@
 ``` javascript
 int myVar = 3;
 ```
+- [x] Bake cake
+- [ ] live life
+- [ ] vibe
